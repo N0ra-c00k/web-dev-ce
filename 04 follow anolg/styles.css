@@ -1,0 +1,18 @@
+body {
+  font-family: "SUSE Mono";
+  margin: 0;
+}
+/* header stuff here */
+
+header {
+  background-color: #eee3cae0;
+  padding: 1rem 10px;
+}
+header span {
+  color: rgb(124, 33, 33);
+  font-size: 1.6rem; 
+  font-weight: 700;
+}
+
+
+
