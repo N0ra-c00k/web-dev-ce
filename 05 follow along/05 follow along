@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Nora Cook">
     <meta name="description" content="tumbing">
-
+    
     <title>Document</title>
     <link rel="stylesheet" href="styles.css">
 
@@ -16,23 +16,15 @@
 <body>
 
     <header>
-        <h1>tumbing to the stars </h1>
+<h1>tumbing to the stars </h1>
     </header>
 
     <nav>
-        <ul>
-            <li class="active"> 
-                <a href="index.html">Home</a>
-            </li>
-            
-            <li>
-                <a href="howtosignup.html">How to sign up </a>
-            </li>
-            
-            <li>
-                
-            </li>
-        </ul>
+    <ul>
+        <li>class levels</li>
+        <li>how to contact</li>
+        <li>how to sign up</li>
+    </ul>
     </nav>
 
     <main>
@@ -78,7 +70,7 @@
     </main>
 
     <footer>
-        @Nora cook web dev 2025
+@Nora cook web dev 2025
     </footer>
 
 </body>
